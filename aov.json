@@ -4882,6 +4882,12 @@
         "skinName": "Tulen Satoru Gojo",
         "hasButtonSkin": true,
         "killNotifyID": 25
+      },
+      {
+        "skinID": 19016,
+        "skinName": "Tulen Thiên cơ bạch trạch",
+        "hasButtonSkin": true,
+        "killNotifyID": 59
       }
     ]
   },
@@ -8434,12 +8440,6 @@
         "skinName": "Billow T-Rex Bất Bại",
         "hasButtonSkin": true,
         "killNotifyID": -999
-      },
-      {
-        "skinID": 99999,
-        "skinName": "Không biết tên nhưng mà đẹp [ID: 59]",
-        "hasButtonSkin": false,
-        "killNotifyID": 59
       }
     ]
   }
