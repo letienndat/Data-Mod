@@ -2251,7 +2251,7 @@
       {
         "skinID": 13316,
         "skinName": "Valhein Mã Hành Vạn Lý",
-        "hasButtonSkin": false,
+        "hasButtonSkin": true,
         "killNotifyID": -999
       }
     ]
@@ -8436,26 +8436,8 @@
         "killNotifyID": -999
       },
       {
-        "skinID": 1111,
-        "skinName": "39",
-        "hasButtonSkin": false,
-        "killNotifyID": 39
-      },
-      {
-        "skinID": 1112,
-        "skinName": "40",
-        "hasButtonSkin": false,
-        "killNotifyID": 40
-      },
-      {
-        "skinID": 1113,
-        "skinName": "41",
-        "hasButtonSkin": false,
-        "killNotifyID": 41
-      },
-      {
-        "skinID": 1114,
-        "skinName": "59",
+        "skinID": 99999,
+        "skinName": "Không biết tên nhưng mà đẹp [ID: 59]",
         "hasButtonSkin": false,
         "killNotifyID": 59
       }
