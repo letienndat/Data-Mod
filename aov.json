@@ -3159,7 +3159,7 @@
         "skinID": 15016,
         "skinName": "Nakroth Levi",
         "hasButtonSkin": true,
-        "killNotifyID": 59
+        "killNotifyID": 61
       }
     ]
   },
@@ -4133,7 +4133,7 @@
         "skinID": 17108,
         "skinName": "Cresht Eren Jaeger [Titan]",
         "hasButtonSkin": true,
-        "killNotifyID": 61
+        "killNotifyID": 62
       }
     ]
   },
@@ -8434,6 +8434,30 @@
         "skinName": "Billow T-Rex Bất Bại",
         "hasButtonSkin": true,
         "killNotifyID": -999
+      },
+      {
+        "skinID": 1111,
+        "skinName": "39",
+        "hasButtonSkin": false,
+        "killNotifyID": 39
+      },
+      {
+        "skinID": 1112,
+        "skinName": "40",
+        "hasButtonSkin": false,
+        "killNotifyID": 40
+      },
+      {
+        "skinID": 1113,
+        "skinName": "41",
+        "hasButtonSkin": false,
+        "killNotifyID": 41
+      },
+      {
+        "skinID": 1114,
+        "skinName": "59",
+        "hasButtonSkin": false,
+        "killNotifyID": 59
       }
     ]
   }
