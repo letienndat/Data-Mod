@@ -1,0 +1,2256 @@
+/*
+	Credit
+	• Telegram: @TuanMeta
+	• Telegram Channel: https://t.me/ZRTChannel
+	• Telegram Group: https://t.me/ZRTGroup
+*/
+
+Toro [105]:
+1. Mặc định : 10500
+2. Đặc cảnh NYPD : 10501
+3. Trung phong cắm : 10502
+4. Thần thoại Hy Lạp : 10503
+5. Ngưu hải vương : 10504
+6. Bạch mao ngưu : 10505
+7. Tử Lôi Thần Ngưu : 10506
+8. 8D6905BE59B58619_##NoTrans : 10507
+9. Skin ID Trống : 10508
+10. Skin ID Trống : 10509
+11. Skin ID Trống : 10510
+12. Skin ID Trống : 10511
+13. Skin ID Trống : 10512
+14. Skin ID Trống : 10513
+
+Krixi [106]:
+1. Mặc định : 10600
+2. Công chúa bướm : 10601
+3. Xứ sở thần tiên : 10602
+4. Tiệc bãi biển : 10603
+5. Cô tiên thỏ : 10604
+6. Phó văn nghệ : 10605
+7. Tiểu yêu nữ : 10606
+8. Hồ thiên nga : 10607
+9. Thần thoại Hy Lạp : 10608
+10. Thủy thủ : 10609
+11. Skin ID Trống : 10610
+12. Lốc xoáy kinh hoàng Tatsumaki : 10611
+13. Skin ID Trống : 10612
+14. Nàng tiên nổi loạn : 10613
+15. Skin ID Trống : 10614
+16. Tiểu hồng mai : 10615
+17. Skin ID Trống : 10616
+18. Quán quân : 10617
+19. Skin ID Trống : 10618
+20. Skin ID Trống : 10619
+21. Phù thủy thời không : 10620
+22. Uyên Ương mộng điệp : 10621
+23. Skin ID Trống : 10622
+24. Skin ID Trống : 10623
+
+Zephys [107]:
+1. Mặc định : 10700
+2. Oán linh : 10701
+3. Skin ID Trống : 10702
+4. Hiệp sĩ bí ngô : 10703
+5. Dung nham : 10704
+6. Siêu việt : 10705
+7. Phi thương : 10706
+8. Tư lệnh viễn chinh : 10707
+9. Hắc vô thường : 10708
+10. Inosuke Hashibira : 10709
+11. Skin ID Trống : 10710
+12. Đầu bếp Sashimi : 10711
+13. Nghệ nhân đồ chơi : 10712
+14. Skin ID Trống : 10713
+15. Skin ID Trống : 10714
+16. Skin ID Trống : 10715
+17. Skin ID Trống : 10716
+18. Skin ID Trống : 10717
+19. Skin ID Trống : 10718
+20. Skin ID Trống : 10719
+
+Gildur [108]:
+1. Mặc định : 10800
+2. Tiệc bãi biển : 10801
+3. Phượt thủ : 10802
+4. Đại gia học viện : 10803
+5. Đại võ sư : 10804
+6. Thuyền trưởng râu bạc : 10805
+7. Bác học thiên tài : 10806
+8. Phù thủy Ba Tư : 10807
+9. Skin ID Trống : 10808
+10. Xích Long : 10809
+11. Skin ID Trống : 10810
+12. Skin ID Trống : 10811
+13. Skin ID Trống : 10812
+14. Skin ID Trống : 10813
+15. Skin ID Trống : 10814
+16. Skin ID Trống : 10815
+17. Skin ID Trống : 10816
+18. Skin ID Trống : 10817
+
+Veera [109]:
+1. Mặc định : 10900
+2. Cô giáo hắc ám : 10901
+3. Góa phụ giả kim : 10902
+4. Nàng dơi tuyết : 10903
+5. Y tá bạo loạn : 10904
+6. Thiên nga đen : 10905
+7. Vũ hội bóng đêm : 10906
+8. Kimono : 10907
+9. Vũ điệu samba : 10908
+10. Skin ID Trống : 10909
+11. Đánh cắp trái tim : 10910
+12. Dơi hắc ám : 10911
+13. A.I love you : 10912
+14. Bách hoa tiên nữ : 10913
+15. Phù thủy Hội họa : 10914
+16. Thất Sát - Thượng Sinh : 10915
+17. Skin ID Trống : 10916
+18. Skin ID Trống : 10917
+19. Skin ID Trống : 10918
+20. Skin ID Trống : 10919
+21. Skin ID Trống : 10920
+22. Skin ID Trống : 10921
+
+Kahlii [110]:
+1. Mặc định : 11000
+2. Cô dâu hắc ám : 11001
+3. Skin ID Trống : 11002
+4. Quàng khăn đỏ : 11003
+5. Kim cô giáo chủ : 11004
+6. Siêu đầu bếp : 11005
+7. Vũ hội bóng đêm : 11006
+8. Tử Điệp : 11007
+9. Robot hộ lý : 11008
+10. Rối nước Thủy đình : 11009
+11. Skin ID Trống : 11010
+12. Skin ID Trống : 11011
+13. Skin ID Trống : 11012
+14. Skin ID Trống : 11013
+15. Skin ID Trống : 11014
+16. Skin ID Trống : 11015
+17. Skin ID Trống : 11016
+
+Violet [111]:
+1. Mặc định : 11100
+2. Nữ hoàng pháo hoa : 11101
+3. Nữ đặc cảnh : 11102
+4. Phi công trẻ : 11103
+5. Mèo siêu quậy : 11104
+6. Tiệc bãi biển : 11105
+7. Phó học tập : 11106
+8. Thứ nguyên vệ thần : 11107
+9. Pháo hoa Neon : 11108
+10. Đặc dị : 11109
+11. Vợ người ta : 11110
+12. Tay súng siêu phàm : 11111
+13. Huy chương vàng : 11112
+14. Huyết ma thần : 11113
+15. Lam tước : 11114
+16. Thần Long tỷ tỷ : 11115
+17. DJ Câu hồn : 11116
+18. Bách hoa tiên nữ : 11117
+19. C94FA7659EABB014_##NoTrans : 11118
+20. Vọng nguyệt Long Cơ : 11119
+21. 2D82B623166214F5_##NoTrans : 11120
+22. 2F59F4688A850504_##NoTrans : 11121
+23. AEEC80347595E69C_##NoTrans : 11122
+24. 654BA89BA0313135_##NoTrans : 11123
+25. DE11F4E4207C534D_##NoTrans : 11124
+26. B293D817E912F81B_##NoTrans : 11125
+27. E2814046392C7E58_##NoTrans : 11126
+
+Yorn [112]:
+1. Mặc định : 11200
+2. Cung thủ bóng đêm : 11201
+3. Thế tử nguyệt tộc : 11202
+4. Đặc nhiệm SWAT : 11203
+5. Phá Vân tiễn : 11204
+6. Long thần soái : 11205
+7. Nam thần giáng sinh : 11206
+8. Soái ca học đường : 11207
+9. Thần thoại Hy Lạp : 11208
+10. Lục nguyệt cung : 11209
+11. Skin ID Trống : 11210
+12. Soái ca bãi biển : 11211
+13. Vệ Binh ngân hà : 11212
+14. Giao long : 11213
+15. Ký giả diệu kỳ : 11214
+16. Skin ID Trống : 11215
+17. Skin ID Trống : 11216
+18. Skin ID Trống : 11217
+19. Skin ID Trống : 11218
+20. Skin ID Trống : 11219
+21. Skin ID Trống : 11220
+22. Skin ID Trống : 11221
+23. Skin ID Trống : 11222
+
+Chaugnar [113]:
+1. Mặc định : 11300
+2. Ác mộng sinh hóa : 11301
+3. Quang vinh : 11302
+4. Quang vinh : 11303
+5. Quân cảnh : 11304
+6. Skin ID Trống : 11305
+7. Skin ID Trống : 11306
+8. Skin ID Trống : 11307
+9. Skin ID Trống : 11308
+10. Skin ID Trống : 11309
+11. Skin ID Trống : 11310
+12. Skin ID Trống : 11311
+13. Skin ID Trống : 11312
+14. Skin ID Trống : 11313
+
+Omega [114]:
+1. Mặc định : 11400
+2. Hộ vệ ba bích : 11401
+3. Người máy xanh : 11402
+4. Cỗ máy siêu tốc : 11403
+5. Hộ vệ ba bích : 11404
+6. Hộ vệ Carano : 11405
+7. Skin ID Trống : 11406
+8. Skin ID Trống : 11407
+9. Skin ID Trống : 11408
+10. Skin ID Trống : 11409
+11. Skin ID Trống : 11410
+12. Skin ID Trống : 11411
+13. Skin ID Trống : 11412
+14. Skin ID Trống : 11413
+
+Jinna [115]:
+1. Mặc định : 11500
+2. Đại tư tế : 11501
+3. Dạ xoa vương : 11502
+4. Hỏa nhãn ma vương : 11503
+5. Kim quang thánh đồ : 11504
+6. Skin ID Trống : 11505
+7. Kim giác : 11506
+8. Ma thuật sĩ : 11507
+9. Skin ID Trống : 11508
+10. Skin ID Trống : 11509
+11. Skin ID Trống : 11510
+12. Skin ID Trống : 11511
+13. Skin ID Trống : 11512
+14. Skin ID Trống : 11513
+15. Skin ID Trống : 11514
+
+Butterfly [116]:
+1. Mặc định : 11600
+2. Xuân nữ ngổ ngáo : 11601
+3. Thủy thủ : 11602
+4. Teen nữ công nghệ : 11603
+5. Nữ quái nổi loạn : 11604
+6. Quận chúa đế chế : 11605
+7. Đông êm đềm : 11606
+8. Phượng cửu thiên : 11607
+9. Cẩm y vệ: Chu tước : 11608
+10. Skin ID Trống : 11609
+11. Asuna Tia Chớp : 11610
+12. Stacia : 11611
+13. Skin ID Trống : 11612
+14. Gánh anh đến cùng : 11613
+15. Kim Ngư thần nữ : 11614
+16. Skin ID Trống : 11615
+17. Nữ thần Khởi nguyên : 11616
+18. Skin ID Trống : 11617
+19. Tình yêu nổi loạn : 11618
+20. Rockgirl Siêu Đẳng : 11619
+21. Skin ID Trống : 11620
+22. Skin ID Trống : 11621
+23. Skin ID Trống : 11622
+24. Skin ID Trống : 11623
+25. Skin ID Trống : 11624
+26. Ánh sáng 1 : 11633
+27. Nữ quái nổi loạn : 11634
+28. Nữ quái nổi loạn : 11635
+29. Nữ quái nổi loạn : 11636
+30. Nữ quái nổi loạn : 11637
+31. Nữ quái nổi loạn : 11638
+
+Ormarr [117]:
+1. Mặc định : 11700
+2. Cựu chiến binh : 11701
+3. Skin ID Trống : 11702
+4. Thông thỏa thích : 11703
+5. Giáo viên thể hình : 11704
+6. Ông chủ KFC : 11705
+7. CĐV Cuồng nhiệt : 11706
+8. Skin ID Trống : 11707
+9. Skin ID Trống : 11708
+10. Skin ID Trống : 11709
+11. Skin ID Trống : 11710
+12. Skin ID Trống : 11711
+13. Skin ID Trống : 11712
+14. Skin ID Trống : 11713
+15. Skin ID Trống : 11714
+16. Skin ID Trống : 11715
+
+Alice [118]:
+1. Mặc định : 11800
+2. Nhà chiêm tinh : 11801
+3. Phi hành gia : 11802
+4. Bé gấu tuyết : 11803
+5. Xứ sở thần tiên : 11804
+6. Dạ hội : 11805
+7. Tiểu quỷ bí ngô : 11806
+8. Bé du xuân : 11807
+9. Quân nhạc Athanor : 11808
+10. Tiểu tiên tử : 11809
+11. The Butterfly Mansion Girl : 11810
+12. Phi hành gia : 11811
+13. Eternal Sailor Chibi Moon : 11812
+14. Skin ID Trống : 11813
+15. Skin ID Trống : 11814
+16. Skin ID Trống : 11815
+17. Xứ sở diệu kỳ : 11816
+18. Ốc quế tinh nghịch : 11817
+19. Skin ID Trống : 11818
+20. Skin ID Trống : 11819
+21. Skin ID Trống : 11820
+22. Skin ID Trống : 11821
+
+Mganga [119]:
+1. Mặc định : 11900
+2. Hề cung đình : 11901
+3. Tiệc bánh kẹo : 11902
+4. Pháp sư mèo : 11903
+5. Nhà hóa học : 11904
+6. Độc toàn thân : 11905
+7. Quái tặc không gian : 11906
+8. Đèn Thần Hậu Đậu : 11907
+9. Skin ID Trống : 11908
+10. Skin ID Trống : 11909
+11. Skin ID Trống : 11910
+12. Skin ID Trống : 11911
+13. Skin ID Trống : 11912
+14. Skin ID Trống : 11913
+15. Skin ID Trống : 11914
+
+Mina [120]:
+1. Mặc định : 12000
+2. Tiểu thư đoạt hồn : 12001
+3. Chị đại lắm chiêu : 12002
+4. Tiệc bánh kẹo : 12003
+5. Kẹo hay ghẹo : 12004
+6. Lưỡi hái hoàng kim : 12005
+7. Đào tạo siêu sao : 12006
+8. Nữ thần Ai Cập : 12007
+9. Linh xà Yêu vũ : 12008
+10. Skin ID Trống : 12009
+11. Skin ID Trống : 12010
+12. Xích Huyết Diễm Quỷ : 12011
+13. Skin ID Trống : 12012
+14. Skin ID Trống : 12013
+15. Skin ID Trống : 12014
+16. Skin ID Trống : 12015
+17. Skin ID Trống : 12016
+18. Skin ID Trống : 12017
+19. Skin ID Trống : 12018
+
+Marja [121]:
+1. Mặc định : 12100
+2. Lam Hải yêu hậu : 12101
+3. Linh xà tư tế : 12102
+4. Hỏa ngọc nữ vương : 12103
+5. Yêu nữ săn mồi : 12104
+6. Chủ hôn : 12105
+7. Phù Quang Mạc Ảnh : 12106
+8. Skin ID Trống : 12107
+9. Skin ID Trống : 12108
+10. Skin ID Trống : 12109
+11. Skin ID Trống : 12110
+12. Skin ID Trống : 12111
+13. Skin ID Trống : 12112
+14. Skin ID Trống : 12113
+15. Skin ID Trống : 12114
+
+Maloch [123]:
+1. Mặc định : 12300
+2. Ác ma địa ngục : 12301
+3. Tiệc hóa trang : 12302
+4. Samurai tử sĩ : 12303
+5. Đại tướng Rô bốt : 12304
+6. Ông kẹ bí ngô : 12305
+7. Ác nhân vô tuyến : 12306
+8. Vũ hội bóng đêm : 12307
+9. Đại ca Mukbang : 12308
+10. Quỷ nhãn ma thể : 12309
+11. Đao phủ Dạ Ưng : 12310
+12. Skin ID Trống : 12311
+13. Skin ID Trống : 12312
+14. Skin ID Trống : 12313
+15. Skin ID Trống : 12314
+16. Skin ID Trống : 12315
+17. Skin ID Trống : 12316
+18. Skin ID Trống : 12317
+
+Ignis [124]:
+1. Mặc định : 12400
+2. Hỏa thuật sư : 12401
+3. Quang vinh : 12402
+4. Bắc băng vương : 12403
+5. Thầy tế mặt trời : 12404
+6. Thần mặt trời : 12405
+7. Nguyệt lão : 12406
+8. Skin ID Trống : 12407
+9. Skin ID Trống : 12408
+10. Skin ID Trống : 12409
+11. Skin ID Trống : 12410
+12. Skin ID Trống : 12411
+13. Skin ID Trống : 12412
+14. Skin ID Trống : 12413
+15. Skin ID Trống : 12414
+16. Skin ID Trống : 12415
+
+Arduin [126]:
+1. Mặc định : 12600
+2. Cận vệ hoàng gia : 12601
+3. Quang vinh : 12602
+4. Tà linh hiệp sỹ : 12603
+5. Chiến binh cổ đại : 12604
+6. Đường vào tim em : 12605
+7. Bạch vệ chiến giáp : 12606
+8. Organ cổ quái : 12607
+9. Ngạo Hổ Hàn Đao : 12608
+10. Skin ID Trống : 12609
+11. Skin ID Trống : 12610
+12. Skin ID Trống : 12611
+13. Skin ID Trống : 12612
+14. Skin ID Trống : 12613
+15. Skin ID Trống : 12614
+16. Skin ID Trống : 12615
+
+Azzen'Ka [127]:
+1. Mặc định : 12700
+2. Hoàng tử cát : 12701
+3. Linh hồn lữ khách : 12702
+4. Ghẹo hay kẹo : 12703
+5. Quỷ diện lãng khách : 12704
+6. Quang vinh 2.0 : 12705
+7. Giáng sinh "An lành" : 12706
+8. Skin ID Trống : 12707
+9. Skin ID Trống : 12708
+10. Skin ID Trống : 12709
+11. Skin ID Trống : 12710
+12. Skin ID Trống : 12711
+13. Skin ID Trống : 12712
+14. Skin ID Trống : 12713
+15. Skin ID Trống : 12714
+
+Lữ Bố [128]:
+1. Mặc định : 12800
+2. Tiệc bãi biển : 12801
+3. Nam vương : 12802
+4. Long kỵ sĩ : 12803
+5. Kỵ sĩ âm phủ : 12804
+6. Đặc nhiệm SWAT : 12805
+7. Tư lệnh Robot : 12806
+8. Hỏa long chiến thần : 12807
+9. Ichigo Kurosaki : 12808
+10. Thần ngọc : 12809
+11. Vũ điệu samba : 12810
+12. Skin ID Trống : 12811
+13. Cửu Thiên Lôi Thần : 12812
+14. Skin ID Trống : 12813
+15. Skin ID Trống : 12814
+16. Skin ID Trống : 12815
+17. Skin ID Trống : 12816
+18. Skin ID Trống : 12817
+19. Skin ID Trống : 12818
+20. Skin ID Trống : 12819
+21. Skin ID Trống : 12820
+
+Triệu Vân [129]:
+1. Mặc định : 12900
+2. Tiến sĩ thiên tài : 12901
+3. Đoạt mệnh thương : 12902
+4. Quý công tử : 12903
+5. Dũng sĩ đồ long : 12904
+6. Quang vinh : 12905
+7. Chiến tướng mùa đông : 12906
+8. Kỵ sĩ tận thế : 12907
+9. Cẩm y vệ: Hỏa long : 12908
+10. Skin ID Trống : 12909
+11. Thần tài : 12910
+12. Skin ID Trống : 12911
+13. Minh Chung Long Đế : 12912
+14. 499FF97DD140E6EB_##NoTrans : 12913
+15. Skin ID Trống : 12914
+16. Skin ID Trống : 12915
+17. Skin ID Trống : 12916
+18. Skin ID Trống : 12917
+19. Skin ID Trống : 12918
+20. Skin ID Trống : 12919
+21. Skin ID Trống : 12920
+
+Airi [130]:
+1. Mặc định : 13000
+2. Thích khách : 13001
+3. Ninja xanh lá : 13002
+4. Quái xế công nghệ : 13003
+5. Cấm vệ nguyệt tộc : 13004
+6. Kiemono : 13005
+7. Bạch Kiemono : 13006
+8. Phó kiếm đạo : 13007
+9. Tiệc bãi biển : 13008
+10. Mỵ hồ : 13009
+11. Đặc công tử điệp : 13010
+12. Bích Hải thánh nữ : 13011
+13. Lễ hội mùa xuân : 13012
+14. Thánh nữ Xiêm La : 13013
+15. Skin ID Trống : 13014
+16. Thứ nguyên Vệ thần : 13015
+17. Skin ID Trống : 13016
+18. Ninja ẩm thực : 13017
+19. Búp bê Mộng mị : 13018
+20. Skin ID Trống : 13019
+21. Skin ID Trống : 13020
+22. Skin ID Trống : 13021
+23. Skin ID Trống : 13022
+24. Skin ID Trống : 13023
+
+Murad [131]:
+1. Mặc định : 13100
+2. Thợ săn tiền thưởng : 13101
+3. M-TP Thần tượng học đường : 13102
+4. Đồ thần đao : 13103
+5. Siêu việt : 13104
+6. Thiên tài sân cỏ : 13105
+7. Điệp viên Anubis : 13106
+8. Đặc dị : 13107
+9. Siêu việt 2.0 : 13108
+10. Chí tôn thần kiếm : 13109
+11. Dược sĩ tình yêu : 13110
+12. Byakuya Kuchiki : 13111
+13. Zenitsu Agatsuma : 13112
+14. Thích khách sa mạc : 13113
+15. S - Quang vinh : 13114
+16. Huyết hỏa cuồng đồ : 13115
+17. Tuyệt thế thần binh : 13116
+18. Chiến binh đồ chơi : 13117
+19. 4D672F4617B9104A_##NoTrans : 13118
+20. FEC1600507CD6E5E_##NoTrans : 13119
+21. Skin ID Trống : 13120
+22. Skin ID Trống : 13121
+23. Skin ID Trống : 13122
+24. Skin ID Trống : 13123
+
+Hayate [132]:
+1. Mặc định : 13200
+2. Bạch ảnh : 13201
+3. Chiến binh trăng khuyết : 13202
+4. Ngân lang : 13203
+5. Tử thần vũ trụ : 13204
+6. Quỷ diện : 13205
+7. Kim ưng sát thủ : 13206
+8. Bạch lang : 13207
+9. Bạch vô thường : 13208
+10. Bóng người dưới trăng : 13209
+11. Tu Di thánh đế : 13210
+12. Mãnh hổ kim cang : 13211
+13. Thống soái Dạ Ưng : 13212
+14. Skin ID Trống : 13213
+15. Skin ID Trống : 13214
+16. Skin ID Trống : 13215
+17. Skin ID Trống : 13216
+18. Skin ID Trống : 13217
+19. Skin ID Trống : 13218
+20. Skin ID Trống : 13219
+21. Skin ID Trống : 13220
+
+Valhein [133]:
+1. Mặc định : 13300
+2. Hoàng tử quạ : 13301
+3. Vũ khí tối thượng : 13302
+4. Skin ID Trống : 13303
+5. Đại công tước : 13304
+6. Quang vinh : 13305
+7. Số 7 thần sầu : 13306
+8. Khiêu chiến : 13307
+9. Cá mập "nghiêm túc" : 13308
+10. Hoàng tử Băng : 13309
+11. Thần tài : 13310
+12. Xạ thần Kagutsuchi : 13311
+13. S - Quang vinh : 13312
+14. Đệ nhất thần thám : 13313
+15. AW4 : 13314
+16. AW5 : 13315
+17. Skin ID Trống : 13316
+18. Skin ID Trống : 13317
+19. Skin ID Trống : 13318
+20. Skin ID Trống : 13319
+21. Skin ID Trống : 13320
+22. Skin ID Trống : 13321
+23. Skin ID Trống : 13322
+24. Skin ID Trống : 13323
+25. Skin ID Trống : 13324
+26. Skin ID Trống : 13325
+
+Skud [134]:
+1. Mặc định : 13400
+2. Skin ID Trống : 13401
+3. Sơn tặc : 13402
+4. Quang vinh : 13403
+5. Tà linh ma tướng : 13404
+6. Mafia : 13405
+7. Skin ID Trống : 13406
+8. Skin ID Trống : 13407
+9. Cứu hộ : 13408
+10. Skin ID Trống : 13409
+11. Skin ID Trống : 13410
+12. Skin ID Trống : 13411
+13. Skin ID Trống : 13412
+14. Skin ID Trống : 13413
+15. Skin ID Trống : 13414
+16. Skin ID Trống : 13415
+
+Thane [135]:
+1. Mặc định : 13500
+2. Kẻ hủy diệt : 13501
+3. Hiệp sĩ hoàng kim : 13502
+4. Quang vinh : 13503
+5. Mật vụ : 13504
+6. Bác ong bay vừa : 13505
+7. Skin ID Trống : 13506
+8. Skin ID Trống : 13507
+9. Skin ID Trống : 13508
+10. Skin ID Trống : 13509
+11. Skin ID Trống : 13510
+12. Skin ID Trống : 13511
+13. Skin ID Trống : 13512
+14. Skin ID Trống : 13513
+15. Skin ID Trống : 13514
+16. Skin ID Trống : 13515
+
+Ilumia [136]:
+1. Mặc định : 13600
+2. Nữ chúa tuyết : 13601
+3. Thần mặt trời : 13602
+4. Hồng hoa hậu : 13603
+5. Thiên nữ Áo dài : 13604
+6. Nữ hoàng khí giới : 13605
+7. Diva nổi loạn : 13606
+8. Ngược dòng thời gian : 13607
+9. Quý cô nhà hát : 13608
+10. Khải Huyền Thiên Hậu : 13609
+11. Trọng tài : 13610
+12. Thụy Mộc liên hoa : 13611
+13. Nộ hải Thiên ngư : 13612
+14. Lưỡng Nghi Long Hậu : 13613
+15. Skin ID Trống : 13614
+16. Skin ID Trống : 13615
+17. Skin ID Trống : 13616
+
+Paine [137]:
+1. Mặc định : 13700
+2. Khúc nhạc tử vong : 13701
+3. Phi vụ thế kỷ : 13702
+4. Công tước máu : 13703
+5. Ô Thước đại hiệp : 13704
+6. Tử xà bá tước : 13705
+7. Skin ID Trống : 13706
+8. Skin ID Trống : 13707
+9. Skin ID Trống : 13708
+10. Skin ID Trống : 13709
+11. Skin ID Trống : 13710
+12. Skin ID Trống : 13711
+13. Skin ID Trống : 13712
+14. Skin ID Trống : 13713
+
+Kil'Groth [139]:
+1. Mặc định : 13900
+2. Cảnh vệ biển : 13901
+3. Quang vinh : 13902
+4. Chú lính chì : 13903
+5. Càn Nguyên thủ vệ : 13904
+6. Skin ID Trống : 13905
+7. Skin ID Trống : 13906
+8. Skin ID Trống : 13907
+9. Skin ID Trống : 13908
+10. Skin ID Trống : 13909
+11. Skin ID Trống : 13910
+12. Skin ID Trống : 13911
+13. Skin ID Trống : 13912
+14. Skin ID Trống : 13913
+
+Superman [140]:
+1. Mặc định : 14000
+2. Chúa tể công lý : 14001
+3. Bất công lý : 14002
+4. Skin ID Trống : 14003
+5. Skin ID Trống : 14004
+6. Skin ID Trống : 14005
+7. Skin ID Trống : 14006
+8. Skin ID Trống : 14007
+9. Skin ID Trống : 14008
+10. Skin ID Trống : 14009
+11. Skin ID Trống : 14010
+12. Skin ID Trống : 14011
+13. Skin ID Trống : 14012
+
+Lauriel [141]:
+1. Mặc định : 14100
+2. Đọa lạc thiên sứ : 14101
+3. Hỏa phượng hoàng : 14102
+4. Phù thủy bí ngô : 14103
+5. Thánh quang sứ : 14104
+6. Hoa khôi giáng sinh : 14105
+7. Lạc thần : 14106
+8. Tinh vân sứ : 14107
+9. Tiệc bãi biển : 14108
+10. Thiên sứ công nghệ : 14109
+11. Phi Thiên : 14110
+12. Thứ nguyên vệ thần : 14111
+13. Skin ID Trống : 14112
+14. Vũ khúc hân hoan : 14113
+15. Nữ vương học đường : 14114
+16. Đôi cánh Nguyệt thực : 14115
+17. Nữ vương học đường : 14116
+18. Vũ khúc miêu ảnh : 14117
+19. Thiên nữ Dạ Ưng : 14118
+20. Skin ID Trống : 14119
+21. Skin ID Trống : 14120
+22. Skin ID Trống : 14121
+23. Skin ID Trống : 14122
+24. Skin ID Trống : 14123
+25. Skin ID Trống : 14124
+26. Skin ID Trống : 14125
+27. Skin ID Trống : 14126
+28. Skin ID Trống : 14127
+29. Skin ID Trống : 14128
+30. Skin ID Trống : 14129
+31. Skin ID Trống : 14130
+
+Natalya [142]:
+1. Mặc định : 14200
+2. Mị muốn đi chơi : 14201
+3. Nghệ nhân lân : 14202
+4. Quý cô thủy tề : 14203
+5. Phó nháy nhí nhảnh : 14204
+6. Quà quái quỷ : 14205
+7. Nghiệp hỏa yêu hậu : 14206
+8. Băng tâm thần nữ : 14207
+9. Nữ quái công nghệ : 14208
+10. Nghệ sĩ ma mị : 14209
+11. Thần phú quý : 14210
+12. Skin ID Trống : 14211
+13. Biệt đội băng lam : 14212
+14. Nguyệt Ảnh Kiếm Tiên : 14213
+15. Skin ID Trống : 14214
+16. Skin ID Trống : 14215
+17. Skin ID Trống : 14216
+18. Skin ID Trống : 14217
+19. Skin ID Trống : 14218
+20. Skin ID Trống : 14219
+21. Skin ID Trống : 14220
+
+Taara [144]:
+1. Mặc định : 14400
+2. Đại tù trưởng : 14401
+3. Lam Hải chiến nữ : 14402
+4. Hỏa ngọc nữ đế : 14403
+5. Tiệc bãi biển : 14404
+6. Hồng môn đường chủ : 14405
+7. Tư lệnh hải âu : 14406
+8. Nữ chiến binh : 14407
+9. Skin ID Trống : 14408
+10. Skin ID Trống : 14409
+11. Hoa hồng đỏ tươi : 14410
+12. Thần chiến tranh : 14411
+13. Skin ID Trống : 14412
+14. Skin ID Trống : 14413
+15. Skin ID Trống : 14414
+16. Skin ID Trống : 14415
+17. Skin ID Trống : 14416
+18. Skin ID Trống : 14417
+
+Zill [146]:
+1. Mặc định : 14600
+2. Lốc địa ngục : 14601
+3. Dung nham : 14602
+4. Cựu thần thiên hà : 14603
+5. Diệt nguyệt tử sĩ : 14604
+6. Thần Mộng Mị : 14605
+7. Phong thần Tu La : 14606
+8. Skin ID Trống : 14607
+9. Skin ID Trống : 14608
+10. Skin ID Trống : 14609
+11. Quái xế : 14610
+12. Con quay gió : 14611
+13. Skin ID Trống : 14612
+14. Skin ID Trống : 14613
+15. Skin ID Trống : 14614
+16. Skin ID Trống : 14615
+17. Skin ID Trống : 14616
+
+Preyta [148]:
+1. Mặc định : 14800
+2. Không tặc : 14801
+3. Băng hỏa long sư : 14802
+4. Phi cơ F1 : 14803
+5. Ma độc huyết long : 14804
+6. Skin ID Trống : 14805
+7. Skin ID Trống : 14806
+8. Skin ID Trống : 14807
+9. Skin ID Trống : 14808
+10. Skin ID Trống : 14809
+11. Skin ID Trống : 14810
+12. Skin ID Trống : 14811
+13. Skin ID Trống : 14812
+14. Skin ID Trống : 14813
+
+Xeniel [149]:
+1. Mặc định : 14900
+2. Thiên sứ hủy diệt : 14901
+3. Trung vệ thép : 14902
+4. Kim sí điểu : 14903
+5. Ma sứ tận thế : 14904
+6. Tổng lãnh tinh hệ : 14905
+7. Thần thoại Hy Lạp : 14906
+8. Skin ID Trống : 14907
+9. Shipper bánh mỳ : 14908
+10. Hóa thân Tengu : 14909
+11. Tay trống ngang tàng : 14910
+12. Skin ID Trống : 14911
+13. Skin ID Trống : 14912
+14. Skin ID Trống : 14913
+15. Skin ID Trống : 14914
+16. Skin ID Trống : 14915
+17. Skin ID Trống : 14916
+18. Skin ID Trống : 14917
+
+Nakroth [150]:
+1. Mặc định : 15000
+2. Chiến binh hỏa ngục : 15001
+3. Quân đoàn địa ngục : 15002
+4. Bboy công nghệ : 15003
+5. Siêu việt : 15004
+6. Khiêu chiến : 15005
+7. Quán quân : 15006
+8. Lôi quang sứ : 15007
+9. Tiệc bãi biển : 15008
+10. Thứ nguyên vệ thần : 15009
+11. Skin ID Trống : 15010
+12. Skin ID Trống : 15011
+13. Killua : 15012
+14. Quỷ thương Liệp đế : 15013
+15. Producer Tia chớp : 15014
+16. Bạch Diện chiến thương : 15015
+17. Skin ID Trống : 15016
+18. Skin ID Trống : 15017
+19. Skin ID Trống : 15018
+20. Skin ID Trống : 15019
+21. Skin ID Trống : 15020
+22. Skin ID Trống : 15021
+23. Skin ID Trống : 15022
+24. Siêu việt : 15033
+25. Siêu việt : 15034
+26. Siêu việt : 15035
+27. Siêu việt : 15036
+28. Siêu việt : 15037
+
+Điêu Thuyền [152]:
+1. Mặc định : 15200
+2. Nữ vương anh đào : 15201
+3. Tiệc bãi biển : 15202
+4. Nữ y tá : 15203
+5. WaVe : 15204
+6. Hoa hậu : 15205
+7. Phù thủy bí ngô : 15206
+8. Vũ điệu Nghê Thường : 15207
+9. Tà linh pháp trượng : 15208
+10. Mèo công nghệ : 15209
+11. Thần ngọc : 15210
+12. Thất Tịch tiên tử : 15211
+13. Eternal Sailor Moon : 15212
+14. Mối tình đầu : 15213
+15. Skin ID Trống : 15214
+16. Skin ID Trống : 15215
+17. Tuế Hàn Đỗ Quyên : 15216
+18. Skin ID Trống : 15217
+19. Skin ID Trống : 15218
+20. Skin ID Trống : 15219
+21. Skin ID Trống : 15220
+22. Skin ID Trống : 15221
+
+Kaine [153]:
+1. Mặc định : 15300
+2. Đôi cánh đại dương : 15301
+3. Dơi địa ngục : 15302
+4. Người dơi : 15303
+5. Chiến binh kim quang : 15304
+6. Thiếu chủ bóng đêm : 15305
+7. Skin ID Trống : 15306
+8. Skin ID Trống : 15307
+9. Skin ID Trống : 15308
+10. Skin ID Trống : 15309
+
+Yena [154]:
+1. Mặc định : 15400
+2. Khuyên bạc : 15401
+3. Thỏ may mắn : 15402
+4. Chiến binh nguyệt tộc : 15403
+5. Hoạt náo viên : 15404
+6. Nữ hoàng thể thao : 15405
+7. Dạ nguyệt thánh nữ : 15406
+8. Giảng viên tình ái : 15407
+9. Nữ cướp biển : 15408
+10. WaVe : 15409
+11. Vũ điệu Giáng Sinh : 15410
+12. Skin ID Trống : 15411
+13. Huyền Cửu Thiên : 15412
+14. Trấn Yêu Thần Lộc : 15413
+15. Skin ID Trống : 15414
+16. Skin ID Trống : 15415
+17. Skin ID Trống : 15416
+18. Skin ID Trống : 15417
+19. Skin ID Trống : 15418
+20. Skin ID Trống : 15419
+21. Skin ID Trống : 15420
+
+Aleister [156]:
+1. Mặc định : 15600
+2. Thiếu niên hắc ám : 15601
+3. Quang vinh : 15602
+4. Quỷ soái nguyệt tộc : 15603
+5. Siêu sao bóng rổ : 15604
+6. Xứ sở thần tiên : 15605
+7. Tư lệnh viễn chinh : 15606
+8. Âm dương sư : 15607
+9. Ảo thuật gia : 15608
+10. Thống lĩnh hỗn mang : 15609
+11. Mật vụ thần thám : 15610
+12. HLV bất bại : 15611
+13. Ác nhân đồ chơi : 15612
+14. Skin ID Trống : 15613
+15. Skin ID Trống : 15614
+16. Skin ID Trống : 15615
+17. Skin ID Trống : 15616
+18. Skin ID Trống : 15617
+19. Skin ID Trống : 15618
+20. Skin ID Trống : 15619
+
+Raz [157]:
+1. Mặc định : 15700
+2. Skin ID Trống : 15701
+3. Đại tù trưởng : 15702
+4. Băng quyền quán quân : 15703
+5. Chiến thần Muay Thái : 15704
+6. Siêu việt : 15705
+7. Siêu cấp tin tặc : 15706
+8. Saitama Cosplay : 15707
+9. Mãnh lôi thần quyền : 15708
+10. MC võ đài : 15709
+11. Bão vũ Cuồng lôi : 15710
+12. Gon : 15711
+13. Skin ID Trống : 15712
+14. Skin ID Trống : 15713
+15. Skin ID Trống : 15714
+16. Skin ID Trống : 15715
+17. Skin ID Trống : 15716
+18. Skin ID Trống : 15717
+19. Skin ID Trống : 15718
+20. Skin ID Trống : 15719
+21. Skin ID Trống : 15720
+
+Dolia [159]:
+1. Mặc định : 15900
+2. Hoa tiêu đại dương : 15901
+3. Môn đồ tập sự : 15902
+4. 945E58E71F504AE3_##NoTrans : 15903
+5. C14408D38EFBF7C5_##NoTrans : 15904
+6. 6DD37ED509C9DF21_##NoTrans : 15905
+7. 9F415C48BFE45D17_##NoTrans : 15906
+8. F5480FCE4C43A355_##NoTrans : 15907
+9. 808051C9562BA26E_##NoTrans : 15908
+10. A43096A5CE96CA46_##NoTrans : 15909
+
+Kriknak [162]:
+1. Mặc định : 16200
+2. Bọ cánh bạc : 16201
+3. Yêu trùng cổ mộ : 16202
+4. ST.L-162 : 16203
+5. Bọ cánh cam : 16204
+6. Tử trùng DDos : 16205
+7. Skin ID Trống : 16206
+8. Skin ID Trống : 16207
+9. Skin ID Trống : 16208
+10. Skin ID Trống : 16209
+11. Skin ID Trống : 16210
+12. Skin ID Trống : 16211
+13. Skin ID Trống : 16212
+14. Skin ID Trống : 16213
+15. Skin ID Trống : 16214
+16. Skin ID Trống : 16215
+
+Ryoma [163]:
+1. Mặc định : 16300
+2. Thợ săn tiền thưởng : 16301
+3. Đại tướng nguyệt tộc : 16302
+4. Thanh long bang chủ : 16303
+5. Samurai huyền thoại : 16304
+6. Dạ hội : 16305
+7. Chiến binh Cyborg : 16306
+8. Ultraman : 16307
+9. Đặc nhiệm Giáng sinh : 16308
+10. Khiêu chiến : 16309
+11. Ailing Samurai : 16310
+12. Maple Frost : 16311
+13. Skin ID Trống : 16312
+14. Skin ID Trống : 16313
+15. Skin ID Trống : 16314
+16. Skin ID Trống : 16315
+17. Skin ID Trống : 16316
+18. Skin ID Trống : 16317
+19. Skin ID Trống : 16318
+20. Skin ID Trống : 16319
+
+Arthur [166]:
+1. Mặc định : 16600
+2. Hoàng kim cốt : 16601
+3. Lãnh chúa xương : 16602
+4. Si tình kiếm : 16603
+5. Siêu sao Cricket : 16604
+6. Đặc cảnh băng lôi : 16605
+7. Hiệp sĩ trăng khuyết : 16606
+8. Siêu việt : 16607
+9. Crescent General : 16608
+10. Tôn Hổ vô song : 16609
+11. Hoàng tử Okka : 16610
+12. Biệt đội băng lam : 16611
+13. Skin ID Trống : 16612
+14. Skin ID Trống : 16613
+15. Skin ID Trống : 16614
+16. Skin ID Trống : 16615
+17. Skin ID Trống : 16616
+18. Skin ID Trống : 16617
+19. Skin ID Trống : 16618
+20. Skin ID Trống : 16619
+21. Skin ID Trống : 16620
+
+Ngộ Không [167]:
+1. Mặc định : 16700
+2. Đạo tặc : 16701
+3. Hỏa nhãn kim tinh : 16702
+4. Siêu việt : 16703
+5. Ngộ khá trẩu : 16704
+6. Siêu việt 2.0 : 16705
+7. Đặc vụ băng hầu : 16706
+8. Nhóc tì bá đạo : 16707
+9. Tề Thiên ma hầu : 16708
+10. Cổ thần Ai Cập : 16709
+11. Tân niên Võ thần : 16710
+12. Thần Giáp Xích Diễm : 16711
+13. Tề Thiên Võ Thánh : 16712
+14. Skin ID Trống : 16713
+15. Skin ID Trống : 16714
+16. Skin ID Trống : 16715
+17. Skin ID Trống : 16716
+18. Skin ID Trống : 16717
+19. Skin ID Trống : 16718
+20. Skin ID Trống : 16719
+21. Skin ID Trống : 16720
+
+Lumburr [168]:
+1. Mặc định : 16800
+2. Dung nham : 16801
+3. Dung nham : 16802
+4. Cự thần viễn cổ : 16803
+5. Máy đào khoáng : 16804
+6. Vệ binh hỏa diệm : 16805
+7. Skin ID Trống : 16806
+8. Skin ID Trống : 16807
+9. Skin ID Trống : 16808
+10. Skin ID Trống : 16809
+11. Skin ID Trống : 16810
+12. Skin ID Trống : 16811
+13. Skin ID Trống : 16812
+14. Skin ID Trống : 16813
+15. Skin ID Trống : 16814
+
+Slimz [169]:
+1. Mặc định : 16900
+2. Thỏ thợ mỏ : 16901
+3. Chú thỏ ngọc : 16902
+4. Xứ sở thần tiên : 16903
+5. Thỏ nhồi bông : 16904
+6. Giấc mơ trưa : 16905
+7. Lẩu chua cay : 16906
+8. Sứ giả thiên giới : 16907
+9. Skin ID Trống : 16908
+10. "Siêu Cấp Tối Thượng" : 16909
+11. Skin ID Trống : 16910
+12. Skin ID Trống : 16911
+13. Skin ID Trống : 16912
+14. Skin ID Trống : 16913
+15. Skin ID Trống : 16914
+16. Skin ID Trống : 16915
+17. Skin ID Trống : 16916
+18. Skin ID Trống : 16917
+
+Moren [170]:
+1. Mặc định : 17000
+2. Anh thợ điện : 17001
+3. Lính cứu hỏa : 17002
+4. Binh nhì : 17003
+5. Skin ID Trống : 17004
+6. Skin ID Trống : 17005
+7. Skin ID Trống : 17006
+8. Skin ID Trống : 17007
+9. Skin ID Trống : 17008
+10. Skin ID Trống : 17009
+11. Skin ID Trống : 17010
+12. Skin ID Trống : 17011
+13. Skin ID Trống : 17012
+14. Skin ID Trống : 17013
+
+Cresht [171]:
+1. Mặc định : 17100
+2. Thợ sửa cáp : 17101
+3. Cá cắn cáp : 17102
+4. Đại sư sushi : 17103
+5. Tiệc bãi biển : 17104
+6. Skin ID Trống : 17105
+7. Bách tướng Lão tam : 17106
+8. Skin ID Trống : 17107
+9. Skin ID Trống : 17108
+10. Skin ID Trống : 17109
+11. Skin ID Trống : 17110
+12. Skin ID Trống : 17111
+13. Skin ID Trống : 17112
+14. Skin ID Trống : 17113
+15. Skin ID Trống : 17114
+
+Fennik [173]:
+1. Mặc định : 17300
+2. Nhà thám hiểm : 17301
+3. Đội đặc nhiệm : 17302
+4. Tiệc bánh kẹo : 17303
+5. Tuần lộc láu lỉnh : 17304
+6. Phi hành gia : 17305
+7. Tay đua F1 : 17306
+8. Shipper Siêu thanh : 17307
+9. Phi hồ ẩn sĩ : 17308
+10. Phong tranh thám xuân : 17309
+11. Skin ID Trống : 17310
+12. Skin ID Trống : 17311
+13. Skin ID Trống : 17312
+14. Skin ID Trống : 17313
+15. Skin ID Trống : 17314
+16. Skin ID Trống : 17315
+17. Skin ID Trống : 17316
+18. Skin ID Trống : 17317
+
+Stuart [174]:
+1. Mặc định : 17400
+2. Trò đùa tử vong : 17401
+3. Vua hề : 17402
+4. Gã hề : 17403
+5. Đêm kinh hoàng : 17404
+6. Đạo tặc tử quang : 17405
+7. Streamer bí ẩn : 17406
+8. Skin ID Trống : 17407
+9. Skin ID Trống : 17408
+10. Skin ID Trống : 17409
+11. Skin ID Trống : 17410
+12. Skin ID Trống : 17411
+13. Skin ID Trống : 17412
+
+Grakk [175]:
+1. Mặc định : 17500
+2. Thuyền trưởng râu đỏ : 17501
+3. Khô lâu đại tướng : 17502
+4. Chàng gấu tuyết : 17503
+5. Đi vào lòng đất : 17504
+6. Mèo "Thần tài" : 17505
+7. Sumo : 17506
+8. Tiệc bãi biển : 17507
+9. Màu cờ sắc áo : 17508
+10. Vũ điệu Samba : 17509
+11. Cỗ xe tăng : 17510
+12. Skin ID Trống : 17511
+13. Cận vệ Mafia : 17512
+14. Skin ID Trống : 17513
+15. Skin ID Trống : 17514
+16. Skin ID Trống : 17515
+17. Skin ID Trống : 17516
+18. Thần ẩm thực : 17517
+19. Thủ vệ Dạ Ưng : 17518
+20. Skin ID Trống : 17519
+21. Skin ID Trống : 17520
+
+Lindis [177]:
+1. Mặc định : 17700
+2. Thám tử tư : 17701
+3. Quang thánh tiễn : 17702
+4. Quang vinh : 17703
+5. Nữ vương pháo hoa : 17704
+6. Dạ tiệc : 17705
+7. Đồng phục Shihakusho : 17706
+8. Skin ID Trống : 17707
+9. Đặc vụ thần thám : 17708
+10. Skin ID Trống : 17709
+11. Skin ID Trống : 17710
+12. Skin ID Trống : 17711
+13. Skin ID Trống : 17712
+14. Skin ID Trống : 17713
+15. Skin ID Trống : 17714
+16. Skin ID Trống : 17715
+17. Skin ID Trống : 17716
+
+Max [180]:
+1. Mặc định : 18000
+2. Hiệp sĩ nhí : 18001
+3. Găng tay vàng : 18002
+4. Quang vinh : 18003
+5. Thần đồng sinh hóa : 18004
+6. Thần thoại Hy Lạp : 18005
+7. Tiểu King Kong : 18006
+8. Chuyên gia đập hộp : 18007
+9. "Không trêu bạn" : 18008
+10. Skin ID Trống : 18009
+11. Skin ID Trống : 18010
+12. Skin ID Trống : 18011
+13. Skin ID Trống : 18012
+14. Skin ID Trống : 18013
+15. Skin ID Trống : 18014
+16. Skin ID Trống : 18015
+17. Skin ID Trống : 18016
+18. Skin ID Trống : 18017
+
+Helen [184]:
+1. Mặc định : 18400
+2. Cảnh vệ rừng : 18401
+3. Nghìn lẻ một đêm : 18402
+4. Ngủ trong rừng : 18403
+5. Hotgirl Trà sữa : 18404
+6. Hồng liên tiên tử : 18405
+7. Xứ sở diệu kỳ : 18406
+8. Cổ tích Biển xanh : 18407
+9. Bé hoa xuân : 18408
+10. Skin ID Trống : 18409
+11. Skin ID Trống : 18410
+12. Skin ID Trống : 18411
+13. Skin ID Trống : 18412
+14. Skin ID Trống : 18413
+15. Skin ID Trống : 18414
+16. Skin ID Trống : 18415
+
+TeeMee [186]:
+1. Mặc định : 18600
+2. Xiếc cung đình : 18601
+3. Mặc định : 18602
+4. Tay đua Siêu Tốc : 18603
+5. Thần thoại Hy Lạp : 18604
+6. Thịt xiên nướng : 18605
+7. Tanuki chiêu tài : 18606
+8. Skin ID Trống : 18607
+9. Skin ID Trống : 18608
+10. Lẩu nấm : 18609
+11. Skin ID Trống : 18610
+12. Skin ID Trống : 18611
+13. Skin ID Trống : 18612
+14. Skin ID Trống : 18613
+15. Skin ID Trống : 18614
+16. Skin ID Trống : 18615
+17. Skin ID Trống : 18616
+
+Arum [187]:
+1. Mặc định : 18700
+2. Thú vệ cổ mộ : 18701
+3. Vũ khúc long hổ : 18702
+4. Linh tượng vu nữ : 18703
+5. Vũ khúc thần sứ : 18704
+6. Thỏ may mắn : 18705
+7. Nữ hoàng gấu xám : 18706
+8. Skin ID Trống : 18707
+9. Quản lý tài năng : 18708
+10. Bạn muốn hẹn hò? : 18709
+11. Skin ID Trống : 18710
+12. Skin ID Trống : 18711
+13. Thần phong Thống lĩnh : 18712
+14. Thần tượng nhạc rock : 18713
+15. Skin ID Trống : 18714
+16. Skin ID Trống : 18715
+17. Skin ID Trống : 18716
+18. Skin ID Trống : 18717
+19. Skin ID Trống : 18718
+20. Skin ID Trống : 18719
+
+Krizzix [189]:
+1. Mặc định : 18900
+2. Cún siêu quậy : 18901
+3. Đội đặc nhiệm : 18902
+4. Nghệ sĩ đường phố : 18903
+5. Skin ID Trống : 18904
+6. Trưởng lão : 18905
+7. Skin ID Trống : 18906
+8. Skin ID Trống : 18907
+9. Skin ID Trống : 18908
+10. Skin ID Trống : 18909
+11. Skin ID Trống : 18910
+12. Skin ID Trống : 18911
+13. Skin ID Trống : 18912
+14. Skin ID Trống : 18913
+
+Tulen [190]:
+1. Mặc định : 19000
+2. Nhà thám hiểm : 19001
+3. Tân thần thiên hà : 19002
+4. Phù thủy kiến tạo : 19003
+5. Đông êm đềm : 19004
+6. Phó kỷ luật : 19005
+7. Tân thần hoàng kim : 19006
+8. Chí tôn kiếm tiên : 19007
+9. Dạ hội : 19008
+10. Thần sứ STL-79 : 19009
+11. Hỏa thần long tộc : 19010
+12. Đại úy Athanor : 19011
+13. Tân niên vệ thần : 19012
+14. Tiêu Dao Vũ Thần : 19013
+15. Giám thị sấm sét : 19014
+16. Satoru Gojo : 19015
+17. Skin ID Trống : 19016
+18. Skin ID Trống : 19017
+19. Skin ID Trống : 19018
+20. Skin ID Trống : 19019
+21. Skin ID Trống : 19020
+22. Skin ID Trống : 19021
+23. Skin ID Trống : 19022
+
+Rouie [191]:
+1. Mặc định : 19100
+2. Sứ giả vũ trụ : 19101
+3. Công chúa hỏa long : 19102
+4. Tuần lộc đáng yêu : 19103
+5. Vẹt cầu vồng : 19104
+6. Sứ giả quang minh : 19105
+7. Quang vinh : 19106
+8. Skin ID Trống : 19107
+9. Thụy mộc Thanh long : 19108
+10. Lữ hành Thời không : 19109
+11. Skin ID Trống : 19110
+12. Skin ID Trống : 19111
+13. Skin ID Trống : 19112
+14. Skin ID Trống : 19113
+15. Skin ID Trống : 19114
+16. Skin ID Trống : 19115
+17. Skin ID Trống : 19116
+
+Celica [192]:
+1. Mặc định : 19200
+2. Nữ cao bồi : 19201
+3. Đếm cừu : 19202
+4. S - Quang vinh : 19203
+5. Tâm hồn trà sữa : 19204
+6. Biệt đội băng lam : 19205
+7. Skin ID Trống : 19206
+8. Skin ID Trống : 19207
+9. Skin ID Trống : 19208
+10. Skin ID Trống : 19209
+11. Skin ID Trống : 19210
+12. Skin ID Trống : 19211
+13. Skin ID Trống : 19212
+
+Amily [193]:
+1. Sát thủ lưu vong : 19300
+2. Đặc cảnh NYPD : 19301
+3. Đặc công Nhện đỏ : 19302
+4. Thư ký : 19303
+5. Thỏ may mắn : 19304
+6. Võ thần thiên hà : 19305
+7. Hội ám hoàng : 19306
+8. Nữ đội trưởng : 19307
+9. Skin ID Trống : 19308
+10. Skin ID Trống : 19309
+11. Khủng long xanh : 19310
+12. Skin ID Trống : 19311
+13. Skin ID Trống : 19312
+14. Skin ID Trống : 19313
+15. Skin ID Trống : 19314
+16. Skin ID Trống : 19315
+17. Skin ID Trống : 19316
+18. Skin ID Trống : 19317
+
+Wiro [194]:
+1. Mặc định : 19400
+2. Skin ID Trống : 19401
+3. Skin ID Trống : 19402
+4. Skin ID Trống : 19403
+5. Skin ID Trống : 19404
+6. Skin ID Trống : 19405
+7. Skin ID Trống : 19406
+8. Skin ID Trống : 19407
+9. Skin ID Trống : 19408
+10. Skin ID Trống : 19409
+
+Enzo [195]:
+1. Mặc định : 19500
+2. Phẩm chất quý tộc : 19501
+3. Chiến binh trăng khuyết : 19502
+4. Thần thoại Hy Lạp : 19503
+5. Nhà leo núi : 19504
+6. Hồng hạc thị vệ : 19505
+7. Sát quỷ đoàn : 19506
+8. Skin ID Trống : 19507
+9. Kurapika : 19508
+10. Sát thần Bạch Hổ : 19509
+11. Skin ID Trống : 19510
+12. Skin ID Trống : 19511
+13. Skin ID Trống : 19512
+14. Skin ID Trống : 19513
+15. Skin ID Trống : 19514
+16. Skin ID Trống : 19515
+17. Skin ID Trống : 19516
+
+Elsu [196]:
+1. Đôi cánh tự do : 19600
+2. Cảnh vệ thảo nguyên : 19601
+3. Mafia : 19602
+4. Guitar tình ái : 19603
+5. Chiến binh bóng tối : 19604
+6. Sứ giả tận thế : 19605
+7. Tuyết ưng : 19606
+8. Xạ thủ tinh linh : 19607
+9. Skin ID Trống : 19608
+10. Trấn Thiên phi hồ : 19609
+11. Skin ID Trống : 19610
+12. Hỏa diệm Chu Tước : 19611
+13. Tuyệt ảnh : 19612
+14. DJ <Siêu Đẳng> : 19613
+15. Skin ID Trống : 19614
+16. Skin ID Trống : 19615
+17. Skin ID Trống : 19616
+18. Skin ID Trống : 19617
+19. Skin ID Trống : 19618
+20. Skin ID Trống : 19619
+
+Eland'orr [199]:
+1. Mặc định : 19900
+2. Soái tặc : 19901
+3. Phi vụ thế kỷ : 19902
+4. Học viện Carano : 19903
+5. Siêu thám tử : 19904
+6. Chú ong bay cao : 19905
+7. Tuxedo Mask : 19906
+8. Uyên Ương mộng điệp : 19907
+9. Skin ID Trống : 19908
+10. Skin ID Trống : 19909
+11. Skin ID Trống : 19910
+12. Skin ID Trống : 19911
+13. Skin ID Trống : 19912
+14. Skin ID Trống : 19913
+15. Skin ID Trống : 19914
+16. Skin ID Trống : 19915
+
+Charlotte [206]:
+1. Mặc định : 20600
+2. Hexsword : 20601
+3. CE49618E39A1069F_##NoTrans : 20602
+4. 62ED63FDC4E83258_##NoTrans : 20603
+5. 433BDEC670E61F92_##NoTrans : 20604
+6. A4A6048E8D08A0F4_##NoTrans : 20605
+7. 4982CA0DD590C542_##NoTrans : 20606
+8. 4F2D180838715A02_##NoTrans : 20607
+9. D18C2811B535E3F3_##NoTrans : 20608
+10. 937400CA8662099D_##NoTrans : 20609
+
+Tel'Annas [501]:
+1. Mặc định : 50100
+2. Cảnh vệ rừng : 50101
+3. Giám thị thân thiện : 50102
+4. Chung tình tiễn : 50103
+5. Thánh nữ mật hội : 50104
+6. Thần sứ F.E.E-X1 : 50105
+7. Cẩm y vệ: Phi ưng : 50106
+8. Dạ hội : 50107
+9. Thứ nguyên vệ thần : 50108
+10. FD6E6E91A94325FE_##NoTrans : 50109
+11. Công chúa mộng mơ : 50110
+12. Vũ khúc yêu hồ : 50111
+13. Tân niên vệ thần : 50112
+14. Nghìn lẻ một đêm : 50113
+15. Quang vinh : 50114
+16. Bách hoa tiên nữ : 50115
+17. Ô Thước tiên nữ : 50116
+18. Thiên Vũ Thần Long : 50117
+19. Jujutsu Socerer : 50118
+20. Skin ID Trống : 50119
+21. Skin ID Trống : 50120
+22. Skin ID Trống : 50121
+23. Skin ID Trống : 50122
+24. Skin ID Trống : 50123
+25. Skin ID Trống : 50124
+26. Skin ID Trống : 50125
+
+Astrid [502]:
+1. Mặc định : 50200
+2. Bạch kiếm tiểu thư : 50201
+3. Siêu sao bóng chày : 50202
+4. Tổ trưởng học đường : 50203
+5. Thần thoại Hy Lạp : 50204
+6. Nữ tổng tài : 50205
+7. Thần trí tuệ : 50206
+8. Xứ sở diệu kỳ : 50207
+9. Skin ID Trống : 50208
+10. Skin ID Trống : 50209
+11. Skin ID Trống : 50210
+12. Skin ID Trống : 50211
+13. Skin ID Trống : 50212
+14. Skin ID Trống : 50213
+15. Skin ID Trống : 50214
+16. Skin ID Trống : 50215
+17. Skin ID Trống : 50216
+
+Zuka [503]:
+1. Mặc định : 50300
+2. Zuka : 50301
+3. Đại phú ông : 50302
+4. Giáo sư sừng sỏ : 50303
+5. Phát tài : 50304
+6. Gấu nhồi bông : 50305
+7. Diệt nguyệt nguyên soái : 50306
+8. Đầu bếp hoàng cung : 50307
+9. Mãnh hổ : 50308
+10. Rapper Big Panda : 50309
+11. Ngư ông đắc lợi : 50310
+12. Skin ID Trống : 50311
+13. Skin ID Trống : 50312
+14. Skin ID Trống : 50313
+15. Skin ID Trống : 50314
+16. Skin ID Trống : 50315
+17. Skin ID Trống : 50316
+18. Skin ID Trống : 50317
+19. Skin ID Trống : 50318
+20. Skin ID Trống : 50319
+
+Wonder Woman [504]:
+1. Mặc định : 50400
+2. Thế chiến : 50401
+3. Skin ID Trống : 50402
+4. Skin ID Trống : 50403
+5. Skin ID Trống : 50404
+6. Skin ID Trống : 50405
+7. Skin ID Trống : 50406
+8. Skin ID Trống : 50407
+9. Skin ID Trống : 50408
+10. Skin ID Trống : 50409
+
+Baldum [505]:
+1. Mặc định : 50500
+2. Chú thợ ống nước : 50501
+3. Liệt hỏa dung nham : 50502
+4. Thần thoại Hy Lạp : 50503
+5. Thế giới kẹo ngọt : 50504
+6. Đồ chơi : 50505
+7. Skin ID Trống : 50506
+8. Skin ID Trống : 50507
+9. Skin ID Trống : 50508
+10. Skin ID Trống : 50509
+11. Skin ID Trống : 50510
+12. Skin ID Trống : 50511
+13. Skin ID Trống : 50512
+14. Skin ID Trống : 50513
+15. Skin ID Trống : 50514
+16. Skin ID Trống : 50515
+
+Omen [506]:
+1. Mặc định : 50600
+2. Sĩ quan viễn chinh : 50601
+3. Ám tử đao : 50602
+4. Quỷ nguyệt tướng : 50603
+5. Đao phủ tận thế : 50604
+6. Chiến binh trăng khuyết : 50605
+7. Thuyền trưởng hải tặc : 50606
+8. Nhạc sĩ huyền thoại : 50607
+9. Quái Kiệt Guitar : 50608
+10. Skin ID Trống : 50609
+11. Huyết ảnh Tà thần : 50610
+12. Chiến xa hắc ám : 50611
+13. Chiến xa quang minh : 50612
+14. Skin ID Trống : 50613
+15. Skin ID Trống : 50614
+16. Skin ID Trống : 50615
+17. Skin ID Trống : 50616
+18. Skin ID Trống : 50617
+19. Skin ID Trống : 50618
+20. Skin ID Trống : 50619
+
+The Flash [507]:
+1. Mặc định : 50700
+2. Tia chớp tương lai : 50701
+3. Skin ID Trống : 50702
+4. Skin ID Trống : 50703
+5. Skin ID Trống : 50704
+6. Skin ID Trống : 50705
+7. Skin ID Trống : 50706
+8. Skin ID Trống : 50707
+9. Skin ID Trống : 50708
+10. Skin ID Trống : 50709
+
+Wisp [508]:
+1. Mặc định : 50800
+2. Hải tặc nhí : 50801
+3. Thỏ siêu quậy : 50802
+4. Ếch nhồi bông : 50803
+5. Skin ID Trống : 50804
+6. Máy phát quà : 50805
+7. Rồng đi bộ : 50806
+8. Cô bé bút chì : 50807
+9. Skin ID Trống : 50808
+10. Skin ID Trống : 50809
+11. Skin ID Trống : 50810
+12. Skin ID Trống : 50811
+13. Skin ID Trống : 50812
+14. Skin ID Trống : 50813
+15. Skin ID Trống : 50814
+16. Skin ID Trống : 50815
+17. Skin ID Trống : 50816
+18. Skin ID Trống : 50817
+
+Y'bneth [509]:
+1. Mặc định : 50900
+2. Hạt trưởng kiểm lâm : 50901
+3. Chiến binh lục bảo : 50902
+4. Động cơ vĩnh cửu : 50903
+5. Mộc quỷ : 50904
+6. Titan Băng giá : 50905
+7. Động cơ vĩnh cửu : 50906
+8. Skin ID Trống : 50907
+9. Skin ID Trống : 50908
+10. Skin ID Trống : 50909
+11. Skin ID Trống : 50910
+12. Skin ID Trống : 50911
+13. Skin ID Trống : 50912
+14. Skin ID Trống : 50913
+15. Skin ID Trống : 50914
+16. Skin ID Trống : 50915
+17. Skin ID Trống : 50916
+
+Liliana [510]:
+1. Mặc định : 51000
+2. Hồ quý phi : 51001
+3. Thần tượng âm nhạc : 51002
+4. Nguyệt mị ly : 51003
+5. Tiểu thơ anh đào : 51004
+6. Tân nguyệt mị ly : 51005
+7. Nữ thần F1 : 51006
+8. Tiệc bãi biển : 51007
+9. Thủy thủ hồ ly : 51008
+10. WaVe : 51009
+11. Skin ID Trống : 51010
+12. Skin ID Trống : 51011
+13. Skin ID Trống : 51012
+14. Lưu thủy Thần long : 51013
+15. Thần hổ Xiêm La : 51014
+16. Ma Pháp Tối Thượng : 51015
+17. Skin ID Trống : 51016
+18. Skin ID Trống : 51017
+19. Skin ID Trống : 51018
+20. Skin ID Trống : 51019
+
+Ata [511]:
+1. Mặc định : 51100
+2. Tân thủy thủ : 51101
+3. Cao bồi : 51102
+4. Quang vinh : 51103
+5. Mèo đi mưa : 51104
+6. Chiến binh hải tộc : 51105
+7. Skin ID Trống : 51106
+8. Skin ID Trống : 51107
+9. Gà mờ : 51108
+10. Giao long : 51109
+11. Skin ID Trống : 51110
+12. Skin ID Trống : 51111
+13. Skin ID Trống : 51112
+14. Skin ID Trống : 51113
+15. Skin ID Trống : 51114
+
+Rourke [512]:
+1. Mặc định : 51200
+2. Pháo thủ tuộc neo : 51201
+3. Biệt đội siêu hùng : 51202
+4. Cuồng tặc : 51203
+5. Thợ cơ khí : 51204
+6. Skin ID Trống : 51205
+7. Skin ID Trống : 51206
+8. Cảnh sát trưởng : 51207
+9. Bách tướng Lão đại : 51208
+10. Skin ID Trống : 51209
+
+Zata [513]:
+1. Mặc định : 51300
+2. Tư lệnh viễn chinh : 51301
+3. Sứ giả tinh hệ : 51302
+4. Thần mặt trời : 51303
+5. Khiêu chiến : 51304
+6. Tác gia đương đại : 51305
+7. Chí tôn Tà phượng : 51306
+8. Xích Huyết Bá Tước : 51307
+9. Skin ID Trống : 51308
+10. Skin ID Trống : 51309
+
+Roxie [514]:
+1. Mặc định : 51400
+2. Thám tử tập sự : 51401
+3. Kèn ái tình : 51402
+4. Hầu gái : 51403
+5. Tiệc bánh kẹo : 51404
+6. Cháy phố : 51405
+7. Lễ hội hoa : 51406
+8. Skin ID Trống : 51407
+9. Hỏa thuật sư : 51408
+10. Skin ID Trống : 51409
+
+Richter [515]:
+1. Mặc định : 51500
+2. Bá tước : 51501
+3. Thống soái kháng chiến : 51502
+4. Dạ hội : 51503
+5. Thần kiếm Susanoo : 51504
+6. Quang vinh 2.0 : 51505
+7. Nguyệt loan đao : 51506
+8. Skin ID Trống : 51507
+9. Cứu hộ : 51508
+10. Skin ID Trống : 51509
+
+Quillen [518]:
+1. Mặc định : 51800
+2. Trưởng ngoại khoa : 51801
+3. Đặc công mãng xà : 51802
+4. Thống soái đế chế : 51803
+5. Huyết thủ nguyệt tộc : 51804
+6. Sao đỏ học đường : 51805
+7. Tà linh ma đao : 51806
+8. Hoàng kim soái vương : 51807
+9. Nghịch Thiên long đế : 51808
+10. Người gác đền : 51809
+11. Giám đốc âm nhạc : 51810
+12. Skin ID Trống : 51811
+13. Huyết phong : 51812
+14. Skin ID Trống : 51813
+15. Skin ID Trống : 51814
+
+Annette [519]:
+1. Mặc định : 51900
+2. Nữ quản ga : 51901
+3. Xứ sở thần tiên : 51902
+4. Thần tượng âm nhạc : 51903
+5. Tiệc bãi biển : 51904
+6. Phi hành gia : 51905
+7. Vân Mộng tiên tử : 51906
+8. Nữ sinh Trung học : 51907
+9. Chị ong bay thấp : 51908
+10. Tiên tri tập sự : 51909
+11. Skin ID Trống : 51910
+12. Băng kỳ lâm : 51911
+13. Skin ID Trống : 51912
+14. Skin ID Trống : 51913
+15. Skin ID Trống : 51914
+
+Veres [520]:
+1. Mặc định : 52000
+2. Đạo tặc : 52001
+3. Gián điệp tinh hệ : 52002
+4. Thần thoại Hy Lạp : 52003
+5. Chị đại học đường : 52004
+6. Skin ID Trống : 52005
+7. Thuỷ thần kiều diễm : 52006
+8. Kimono : 52007
+9. Phù thủy trang điểm : 52008
+10. Tiệc bãi biển : 52009
+11. Men Lam Hồn Gốm : 52010
+12. Lưu Ly Long Mẫu : 52011
+13. Vũ điệu dân gian : 52012
+14. 83A64CDFE785FC49_##NoTrans : 52013
+15. CFE644B26DADB0E9_##NoTrans : 52014
+16. CF56151784B87075_##NoTrans : 52015
+17. 20972067FC6019AB_##NoTrans : 52016
+
+Florentino [521]:
+1. Mặc định : 52100
+2. Vũ kiếm sư : 52101
+3. Giám sát tinh Hệ : 52102
+4. Kiếm sĩ Olympic : 52103
+5. Thần thoại Hy Lạp : 52104
+6. Seven : 52105
+7. Tà long kiếm sĩ : 52106
+8. Xứ sở thần tiên : 52107
+9. Bá vương Âm nhạc : 52108
+10. Skin ID Trống : 52109
+11. Hisoka : 52110
+12. Hỏa diệm Thần long : 52111
+
+Errol [522]:
+1. Mặc định : 52200
+2. Vượt ngục : 52201
+3. Diệt nguyệt tiên phong : 52202
+4. Quái vật cương thi : 52203
+5. Genos : 52204
+6. Huyết thủ Tu La : 52205
+7. Skin ID Trống : 52206
+8. Stream đến bao giờ : 52207
+9. Sát thủ Mafia : 52208
+10. Skin ID Trống : 52209
+
+D'Arcy [523]:
+1. Mặc định : 52300
+2. Nam tước : 52301
+3. Đô đốc tinh Hệ : 52302
+4. Pháp sư hỏa long : 52303
+5. Tiến sĩ thiên tài : 52304
+6. Chân nhân : 52305
+7. Tông đồ Chân lý : 52306
+8. Skin ID Trống : 52307
+9. Skin ID Trống : 52308
+10. Skin ID Trống : 52309
+
+Capheny [524]:
+1. Mặc định : 52400
+2. Hầu gái : 52401
+3. Thần tượng âm nhạc : 52402
+4. Toán Hóa Sinh : 52403
+5. Kimono : 52404
+6. Siêu cấp tin tặc : 52405
+7. Phi hành gia : 52406
+8. Harley Quinn : 52407
+9. Quân nhạc Mildar : 52408
+10. Skin ID Trống : 52409
+11. Tử đinh hương : 52410
+12. Vua trò chơi : 52411
+13. S - Quang vinh : 52412
+14. Huyết phong : 52413
+15. Càn Nguyên Điện Chủ : 52414
+16. 369DE7C355AB8788_##NoTrans : 52415
+17. 5B9DED700A5AA9BA_##NoTrans : 52416
+18. 8D093F9965B072FD_##NoTrans : 52417
+
+Zip [525]:
+1. Mặc định : 52500
+2. Gà siêu quậy : 52501
+3. Tiểu đệ hổ báo : 52502
+4. Cá siêu quậy : 52503
+5. Gà siêu cấp : 52504
+6. Vua sân cỏ : 52505
+7. Ông trùm Giáng sinh : 52506
+8. Duyên tơ hồng : 52507
+9. Skin ID Trống : 52508
+10. Skin ID Trống : 52509
+
+Ishar [526]:
+1. Mặc định : 52600
+2. Giấc mơ ngọt ngào : 52601
+3. Tiểu thư kẹo ngọt : 52602
+4. Tiểu thư gấu trúc : 52603
+5. Lễ hội ma quái : 52604
+6. Gián điệp hacker : 52605
+7. Lễ hội ma quái : 52606
+8. Tiểu thư : 52607
+9. Rồng bé bự : 52608
+10. Quận chúa sông Nile : 52609
+11. Skin ID Trống : 52610
+12. Skin ID Trống : 52611
+13. Skin ID Trống : 52612
+14. Skin ID Trống : 52613
+15. Skin ID Trống : 52614
+
+Sephera [527]:
+1. Mặc định : 52700
+2. Quý tiểu thư : 52701
+3. Chiêm tinh gia : 52702
+4. Thần tượng âm nhạc : 52703
+5. Phi vụ thế kỷ : 52704
+6. Thần thoại Hy Lạp : 52705
+7. Lam Hải phu nhân : 52706
+8. Thủy liên hoa : 52707
+9. Cô thủ thư : 52708
+10. Bách nhạn Ngân linh : 52709
+11. Nova Stardust : 52710
+12. 3DAAB365A366763C_##NoTrans : 52711
+13. D5C9D904FA3557A0_##NoTrans : 52712
+14. 2A2F2D23D0AEB50E_##NoTrans : 52713
+15. AA135ACB4443577A_##NoTrans : 52714
+16. 016DE5788ADEE790_##NoTrans : 52715
+
+Qi [528]:
+1. Mặc định : 52800
+2. Tiểu long : 52801
+3. Đặc vụ cáo tuyết : 52802
+4. Quán quân : 52803
+5. Thiếu nữ pháo hoa : 52804
+6. Blogger Ẩm thực : 52805
+7. Búp bê Daruma : 52806
+8. Skin ID Trống : 52807
+9. Thần phong Hiệp nữ : 52808
+10. Skin ID Trống : 52809
+
+Volkath [529]:
+1. Mặc định : 52900
+2. Dạ huyết tộc : 52901
+3. Ma kỵ tử sĩ : 52902
+4. Xung thiên thần tướng : 52903
+5. Tư lệnh viễn chinh : 52904
+6. Chiến thần Ai Cập : 52905
+7. Hắc kỵ thời không : 52906
+8. S - Quang vinh : 52907
+9. Skin ID Trống : 52908
+10. Skin ID Trống : 52909
+
+Dirak [530]:
+1. Mặc định : 53000
+2. Cảnh vệ bầu trời : 53001
+3. Pháp sư trăng khuyết : 53002
+4. Quý tộc Norman : 53003
+5. Skin ID Trống : 53004
+6. Ông bầu Showbiz : 53005
+7. Skin ID Trống : 53006
+8. Đường chủ yêu giới : 53007
+9. Skin ID Trống : 53008
+10. Skin ID Trống : 53009
+
+Keera [531]:
+1. Mặc định : 53100
+2. Y tá lạ : 53101
+3. Học viện Carano : 53102
+4. Sát thủ bí ngô : 53103
+5. Thủy thủ : 53104
+6. Tiệc bãi biển : 53105
+7. Skin ID Trống : 53106
+8. Nezuko Kamado : 53107
+9. Skin ID Trống : 53108
+10. Nghệ sĩ Graffiti : 53109
+11. Hồ điệp : 53110
+12. Môn đồ Xảo quyệt : 53111
+13. BEF14776700BBE62_##NoTrans : 53112
+14. 51B2C90A7B28E250_##NoTrans : 53113
+15. C7799F60040935EF_##NoTrans : 53114
+16. 88EA709DEE088815_##NoTrans : 53115
+
+Thorne [532]:
+1. Mặc định : 53200
+2. Cận vệ hoàng gia : 53201
+3. Giả kim thuật sư : 53202
+4. Quán quân : 53203
+5. Tiệc bãi biển : 53204
+6. Ước nguyện Giáng sinh : 53205
+7. Skin ID Trống : 53206
+8. Skin ID Trống : 53207
+9. Skin ID Trống : 53208
+10. Skin ID Trống : 53209
+
+Laville [533]:
+1. Mặc định : 53300
+2. Tay đua đường phố : 53301
+3. Tay súng diệt thần : 53302
+4. Tay súng vô địch : 53303
+5. Xạ thần Tinh Vệ : 53304
+6. Kim Quy thần vương : 53305
+7. Tiệc bãi biển : 53306
+8. Sắc màu Holi : 53307
+9. Chiến thần MOBA : 53308
+10. Vệ binh Giáng sinh : 53309
+11. Thám tử học đường : 53310
+12. DCE544D169702F71_##NoTrans : 53311
+13. 78850E96B4871F12_##NoTrans : 53312
+14. 53703EFFA13F4104_##NoTrans : 53313
+15. D5D55C5FD57C828D_##NoTrans : 53314
+16. 6316BFF7EA8F917A_##NoTrans : 53315
+
+Dextra [534]:
+1. Mặc định : 53400
+2. Chiến binh quyến rũ : 53401
+3. Quận chúa Tuyết : 53402
+4. Skin ID Trống : 53403
+5. Quý cô tuổi Dần : 53404
+6. Băng Sa công chúa : 53405
+7. Lữ khách cao nguyên : 53406
+8. Skin ID Trống : 53407
+9. Skin ID Trống : 53408
+10. Skin ID Trống : 53409
+
+Sinestrea [535]:
+1. Mặc định : 53500
+2. Giấc mơ trưa : 53501
+3. Tiểu thư Băng giá : 53502
+4. WaVe : 53503
+5. Điệp viên cánh cụt : 53504
+6. Skin ID Trống : 53505
+7. Skin ID Trống : 53506
+8. Đại tiểu thư : 53507
+9. Tiểu thư bóng đêm : 53508
+10. Lữ khách sa mạc : 53509
+11. Giấc mộng biển xanh : 53510
+12. S - Quang vinh : 53511
+13. B0CED77EF0AFFBBE_##NoTrans : 53512
+14. 33395943244F8B6B_##NoTrans : 53513
+15. 2E33D7FA50F09F1B_##NoTrans : 53514
+16. 6A3350E2C44D3B2E_##NoTrans : 53515
+
+Aoi [536]:
+1. Mặc định : 53600
+2. Sát thủ đô thị : 53601
+3. Hoàng kim công chúa : 53602
+4. Skin ID Trống : 53603
+5. Tiệc bãi biển : 53604
+6. Lam Hải quận chúa : 53605
+7. Tiểu thư Mafia : 53606
+8. Skin ID Trống : 53607
+9. Sát thủ Dạ Ưng : 53608
+10. Quán Quân : 53609
+
+Allain [537]:
+1. Mặc định : 53700
+2. Hắc kiếm sĩ Kirito : 53701
+3. Kirito : 53702
+4. Tuyết sơn song kiếm : 53703
+5. Thần mặt trời : 53704
+6. Bạch kiếm sĩ : 53705
+7. Hạo Thiên Khuyển : 53706
+8. Tình yêu nổi loạn : 53707
+9. Lân sư Vũ thần : 53708
+10. Skin ID Trống : 53709
+
+Iggy [538]:
+1. Mặc định : 53800
+2. Tiểu hoàng đế : 53801
+3. Thần Miêu thiếu chủ : 53802
+4. Bạch hồ ly : 53803
+5. Yêu nhân học viện : 53804
+6. Tiếng thét Hỗn mang : 53805
+7. Skin ID Trống : 53806
+8. Skin ID Trống : 53807
+9. Skin ID Trống : 53808
+10. Skin ID Trống : 53809
+
+Lorion [539]:
+1. Mặc định : 53900
+2. Chiến giáp hắc ám : 53901
+3. Hỏa vân tà thần : 53902
+4. Quân vương bóng tối : 53903
+5. Quân vương ánh sáng : 53904
+6. Skin ID Trống : 53905
+7. Skin ID Trống : 53906
+8. Skin ID Trống : 53907
+9. Skin ID Trống : 53908
+10. Skin ID Trống : 53909
+
+Bright [540]:
+1. Mặc định : 54000
+2. Soái ca thánh điện : 54001
+3. Toshiro Hitsugaya : 54002
+4. Khiêu chiến : 54003
+5. Mật vụ hacker : 54004
+6. Nhà thám hiểm : 54005
+7. Kỳ Lân soái : 54006
+8. Vua về nhì : 54007
+9. Skin ID Trống : 54008
+10. Skin ID Trống : 54009
+
+Bonnie [541]:
+1. Mặc định : 54100
+2. Thỏ ma quái : 54101
+3. Cô bé sợ ma : 54102
+4. Skin ID Trống : 54103
+5. Skin ID Trống : 54104
+6. Skin ID Trống : 54105
+7. Skin ID Trống : 54106
+8. Skin ID Trống : 54107
+9. Skin ID Trống : 54108
+10. Skin ID Trống : 54109
+
+Tachi [542]:
+1. Mặc định : 54200
+2. Lãng khách : 54201
+3. Đao khách vô tình : 54202
+4. Xích long hỏa diệm : 54203
+5. S - Quang vinh : 54204
+6. Thần phong Hộ vệ : 54205
+7. Hỗn mang đao : 54206
+8. Skin ID Trống : 54207
+9. Skin ID Trống : 54208
+10. Skin ID Trống : 54209
+
+Aya [543]:
+1. Mặc định : 54300
+2. Hoạt náo viên : 54301
+3. Điệp viên ký ức : 54302
+4. MC Sóc nhỏ : 54303
+5. Thủy thủ : 54304
+6. Skin ID Trống : 54305
+7. Skin ID Trống : 54306
+8. Công chúa Cầu Vồng : 54307
+9. Hỏa Hồ Tiên Ngư : 54308
+10. Skin ID Trống : 54309
+
+Yan [544]:
+1. Mặc định : 54400
+2. Nhà chế tác : 54401
+3. Tanjiro Kamado : 54402
+4. Công tước Norman : 54403
+5. Giấc mơ sao : 54404
+6. Bích Hạc Phiên Vân : 54405
+7. Skin ID Trống : 54406
+8. Skin ID Trống : 54407
+9. Skin ID Trống : 54408
+10. Skin ID Trống : 54409
+
+Yue [545]:
+1. Mặc định : 54500
+2. Tiểu công chúa : 54501
+3. Skin ID Trống : 54502
+4. Chiêm tinh gia : 54503
+5. Vũ phiến hỏa diệm : 54504
+6. Nữ hoàng Băng giá : 54505
+7. Skin ID Trống : 54506
+8. Skin ID Trống : 54507
+9. Skin ID Trống : 54508
+10. Skin ID Trống : 54509
+
+Teeri [546]:
+1. Mặc định : 54600
+2. Tiểu kỳ lân : 54601
+3. Minh tinh ảo thuật : 54602
+4. Thuyền trưởng song luân : 54603
+5. Skin ID Trống : 54604
+6. Ốc quế ngọt ngào : 54605
+7. Skin ID Trống : 54606
+8. Skin ID Trống : 54607
+9. Skin ID Trống : 54608
+10. Skin ID Trống : 54609
+
+Bijan [548]:
+1. Mặc định : 54800
+2. Chiến binh sa mạc : 54801
+3. Hoàng Kim cơ giáp : 54802
+4. Đập vỡ Cây đàn : 54803
+5. Kình thiên Long Kỵ : 54804
+6. Skin ID Trống : 54805
+7. Skin ID Trống : 54806
+8. Skin ID Trống : 54807
+9. Skin ID Trống : 54808
+10. Skin ID Trống : 54809
+
+Ying [566]:
+1. Mặc định : 56600
+2. Skin ID Trống : 56601
+3. Skin ID Trống : 56602
+4. 5016E115BDEB3F70_##NoTrans : 56603
+5. 46F423D509D4D46A_##NoTrans : 56604
+6. 8823D0D5CE5CCD45_##NoTrans : 56605
+7. 1B737D72BD106F95_##NoTrans : 56606
+8. 891B813148560771_##NoTrans : 56607
+9. 92A7B9A9076DA38A_##NoTrans : 56608
+10. 7E5924EDC71980A3_##NoTrans : 56609
+
+Erin [567]:
+1. Mặc định : 56700
+2. Mộc tinh linh : 56701
+3. Cực địa tinh linh : 56702
+4. Tình yêu cổ tích : 56703
+5. Huyễn Ảnh Mị Điệp : 56704
+6. 4C9AF108C1139147_##NoTrans : 56705
+7. 9D74AE72811075A5_##NoTrans : 56706
+8. 27FC6468D179E5BF_##NoTrans : 56707
+9. 8DDDC206684736B0_##NoTrans : 56708
+10. B32BF1AED7450B3F_##NoTrans : 56709
+
+Ming [568]:
+1. Mặc định : 56800
+2. Thầy tướng : 56801
+3. Skin ID Trống : 56802
+4. 302938EF332EDED0_##NoTrans : 56803
+5. 8D744F1507A07436_##NoTrans : 56804
+6. 7232444D7E86169A_##NoTrans : 56805
+7. D2656CF250F6A2F3_##NoTrans : 56806
+8. 774D7F24406C9754_##NoTrans : 56807
+9. C2A92BDA9E722C93_##NoTrans : 56808
+10. 8C594ECD4C4B575E_##NoTrans : 56809
+
+Biron [597]:
+1. Mặc định : 59700
+2. Võ sĩ Giác đấu : 59701
+3. Yuji Itadori : 59702
+4. 933AF8404F808ACE_##NoTrans : 59703
+5. 9E47B7A257515FC5_##NoTrans : 59704
+6. 74269DD76B938014_##NoTrans : 59705
+7. 68D4A8509C5470F5_##NoTrans : 59706
+8. 77D755CCFA1382EB_##NoTrans : 59707
+9. 5895081635ADD09C_##NoTrans : 59708
+10. 6D31D00665CDC118_##NoTrans : 59709
+
+Bolt Baron [598]:
+1. Mặc định : 59800
+2. Lôi vệ : 59801
+3. Thiên Phủ - Tư Mệnh : 59802
+4. 95C81306C270472B_##NoTrans : 59803
+5. 5A72902063907284_##NoTrans : 59804
+6. 68B3E5D2ECDABF25_##NoTrans : 59805
+7. 259F96869A1E8D45_##NoTrans : 59806
+8. CE37F248E122BB0C_##NoTrans : 59807
+9. B8D6E0B537D2942B_##NoTrans : 59808
+10. DD58D5E280E7AA79_##NoTrans : 59809
+
+Billow [599]:
+1. Mặc định : 59900
+2. Thiên Tướng - Độ Ách : 59901
+3. 6E63F7B64A5F3247_##NoTrans : 59902
+4. 73B33F58DBBD98DF_##NoTrans : 59903
+5. EAC5102B9366F523_##NoTrans : 59904
+6. D5DBB31B74BF543C_##NoTrans : 59905
+7. 9376F04A842A651E_##NoTrans : 59906
+8. 196A1CA8AC382ED4_##NoTrans : 59907
+9. F101987F0B76DF60_##NoTrans : 59908
+10. 907E130EE03BFEA5_##NoTrans : 59909
+
+Cọc Toro [637]:
+1. Kinh điển : 63700
+2. Skin ID Trống : 63701
+3. Skin ID Trống : 63702
+4. Skin ID Trống : 63703
+5. Skin ID Trống : 63704
+6. Skin ID Trống : 63705
+7. Skin ID Trống : 63706
+8. Skin ID Trống : 63707
+9. Skin ID Trống : 63708
+10. Skin ID Trống : 63709
+
+Batman [638]:
+1. Mặc định : 63800
+2. Skin ID Trống : 63801
+3. Skin ID Trống : 63802
+4. Skin ID Trống : 63803
+5. Skin ID Trống : 63804
+6. Skin ID Trống : 63805
+7. Skin ID Trống : 63806
+8. Skin ID Trống : 63807
+9. Skin ID Trống : 63808
+10. Skin ID Trống : 63809
+
+Rối Athur [808]:
+1. Mặc định : 80800
+
+Rối Tel [809]:
+1. Mặc định : 80900
+
+Mặc định [999]:
+1. Tiểu Cara : 99900
+2. Thỏ - Tiểu nữ quái : 99901
+3. Thỏ - Nữ quái xì teen : 99902
+4. Thỏ - Nữ quái Công nghệ : 99903
+5. Thỏ - Thần tượng học đường I : 99904
+6. Thỏ - Thần tượng học đường II : 99905
+7. Thỏ - Thần tượng học đường III : 99906
+8. Thỏ - Sao đỏ học đường I : 99907
+9. Thỏ - Sao đỏ học đường II : 99908
+10. Thỏ - Sao đỏ học đường III : 99909
+11. Thỏ - Phù thủy nhỏ I : 99910
+12. Thỏ - Phù thủy nhỏ II : 99911
+13. Thỏ - Phù thủy nhỏ III : 99912
+14. Thỏ - Siêu cấp sát thủ I : 99913
+15. Thỏ - Siêu cấp sát thủ II : 99914
+16. Thỏ - Siêu cấp sát thủ III : 99915
+17. Thỏ - Quỷ kiếm I : 99916
+18. Thỏ - Quỷ kiếm II : 99917
+19. Thỏ - Quỷ kiếm III : 99918
+20. Cún- Đại tướng nguyệt tộc 
