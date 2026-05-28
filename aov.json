@@ -1384,7 +1384,7 @@
         "skinID": 12107,
         "skinName": "Marja Hi Phi",
         "hasButtonSkin": false,
-        "killNotifyID": -999
+        "killNotifyID": 56
       }
     ]
   },
@@ -2052,7 +2052,7 @@
         "skinID": 13119,
         "skinName": "Murad Thần Pháo Hoa",
         "hasButtonSkin": false,
-        "killNotifyID": -999
+        "killNotifyID": 57
       }
     ]
   },
@@ -3154,6 +3154,12 @@
         "skinName": "Nakroth Siêu việt",
         "hasButtonSkin": false,
         "killNotifyID": -999
+      },
+      {
+        "skinID": 15016,
+        "skinName": "Nakroth Levi",
+        "hasButtonSkin": true,
+        "killNotifyID": 59
       }
     ]
   },
@@ -3255,8 +3261,8 @@
       {
         "skinID": 15217,
         "skinName": "Điêu Thuyền Nhật Nguyệt Thánh Linh",
-        "hasButtonSkin": false,
-        "killNotifyID": -999
+        "hasButtonSkin": true,
+        "killNotifyID": 58
       }
     ]
   },
@@ -4122,6 +4128,12 @@
         "skinName": "Cresht Caesar bão tố",
         "hasButtonSkin": false,
         "killNotifyID": -999
+      },
+      {
+        "skinID": 17108,
+        "skinName": "Cresht Eren Jaeger [Titan]",
+        "hasButtonSkin": true,
+        "killNotifyID": 61
       }
     ]
   },
@@ -6837,7 +6849,7 @@
         "skinID": 52415,
         "skinName": "Capheny Bugcat Assemble",
         "hasButtonSkin": true,
-        "killNotifyID": -999
+        "killNotifyID": 43
       },
       {
         "skinID": 52416,
@@ -7124,6 +7136,12 @@
         "skinName": "Qi Milim Nava",
         "hasButtonSkin": true,
         "killNotifyID": 51
+      },
+      {
+        "skinID": 52810,
+        "skinName": "Qi Ainme Titan",
+        "hasButtonSkin": true,
+        "killNotifyID": -999
       }
     ]
   },
@@ -7648,6 +7666,12 @@
         "skinName": "Aoi Bách thú triều Long",
         "hasButtonSkin": false,
         "killNotifyID": -999
+      },
+      {
+        "skinID": 53612,
+        "skinName": "Aoi Mikasa",
+        "hasButtonSkin": true,
+        "killNotifyID": 60
       }
     ]
   },
@@ -8112,7 +8136,7 @@
         "skinID": 54507,
         "skinName": "Yue Hỗn Độn Thần Ma",
         "hasButtonSkin": false,
-        "killNotifyID": -999
+        "killNotifyID": 48
       }
     ]
   },
