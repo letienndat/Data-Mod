@@ -1,0 +1,24 @@
+/*
+
+Refer to https://github.com/ocornut/imgui/issues/707#issuecomment-4107169777
+
+| ID | Name            | Function Name                  |
+|____|_________________|________________________________|
+| 1  | Dark            | SetupImGuiDarkStyle            |
+| 2  | Forest Green    | SetupForestGreenStyle          |
+| 3  | Amethyst        | SetupImGuiAmethystStyle        |
+| 4  | Sapphire        | SetupImGuiSapphireStyle        |
+| 5  | AmberYellow     | SetupImGuiAmberYellowStyle     |
+| 6  | Dracula         | SetupImGuiDraculaStyle         |
+| 7  | CatppuccinMocha | SetupImGuiCatppuccinMochaStyle |
+| 8  | GruvboxHard     | SetupImGuiGruvboxHardStyle     |
+| 9  | CrimsonVesuvius | SetupImGuiCrimsonVesuviusStyle |
+| 10 | RoseQuartz      | SetupImGuiRoseQuartzStyle      |
+| 11 | Cyberpunk       | SetupImGuiCyberpunkStyle       |
+| 12 | PaperAndInk     | SetupImGuiPaperAndInkStyle     |
+
+*/
+
+{
+    "styleID": 3
+}
