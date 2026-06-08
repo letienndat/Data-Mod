@@ -168,7 +168,7 @@
 -->11616 : [●]Butterfly Nữ thần Khởi nguyên (Recall + HeadFrame + Sound)
 -->11618 : [●]Butterfly Tình yêu nổi loạn (Sound)
 -->11619 : [●]Butterfly Rockgirl Siêu Đẳng (Recall + Sound)
--->11620 : [●]Butterfly Bình Minh Tận Thế (Recall + Sound)
+-->11620 : [●]Butterfly Bình Minh Tận Thế (Recall + Sound) | Evo 1 -> 5
 -->11621 : [●]Butterfly Ninh Tần (Sound)
 -->
 117_ZhongWuYan
@@ -363,7 +363,7 @@
 -->13308 : [●]Valhein Cá mập "nghiêm túc" (Sound)
 -->13309 : [●]Valhein Hoàng tử Băng (Sound)
 -->13310 : [●]Valhein Thần tài (Sound)
--->13311 : [●]Valhein Xạ thần Kagutsuchi (Recall + Sound)
+-->13311 : [●]Valhein Xạ thần Kagutsuchi (Recall + Sound) | Evo 1 -> 5
 -->13312 : [○]Valhein S - Quang vinh
 -->13313 : [●]Valhein Đệ nhất thần thám (Recall + Sound)
 -->13314 : [●]Valhein Thứ nguyên vệ thần (Recall + Sound)
@@ -500,7 +500,7 @@
 -->15001 : [●]Nakroth Chiến binh hỏa ngục
 -->15002 : [○]Nakroth Quân đoàn địa ngục
 -->15003 : [●]Nakroth Bboy công nghệ (Sound)
--->15004 : [●]Nakroth Siêu việt (Recall + Sound)
+-->15004 : [●]Nakroth Siêu việt (Recall + Sound) | Evo 1 -> 5
 -->15005 : [●]Nakroth Khiêu chiến (Sound)
 -->15006 : [●]Nakroth Quán quân (Sound)
 -->15007 : [●]Nakroth Lôi quang sứ (Recall + Sound)
@@ -629,7 +629,7 @@
 -->16704 : [●]Ngộ Không Ngộ khá trẩu (Sound)
 -->16705 : [●]Ngộ Không Siêu việt 2.0 (Sound)
 -->16706 : [●]Ngộ Không Đặc vụ băng hầu (Sound)
--->16707 : [●]Ngộ Không Nhóc tì bá đạo (Recall + HeadFrame + Sound)
+-->16707 : [●]Ngộ Không Nhóc tì bá đạo (Recall + HeadFrame + Sound) | Evo 1 -> 5
 -->16708 : [●]Ngộ Không Tề Thiên ma hầu (Sound)
 -->16709 : [○]Ngộ Không Cổ thần Ai Cập
 -->16710 : [●]Ngộ Không Tân niên Võ thần (Recall + HeadFrame + Sound)
